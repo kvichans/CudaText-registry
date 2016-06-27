@@ -1,0 +1,12 @@
+;plugins
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.FindInFiles.zip Gives dialog to search/replace in multiple files
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.SnipToCall.zip Supports snippets to call any commands
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Favorites.zip Manages "favorites": list of user-selected file names, to quickly open them
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Intext_Bookmarks.zip Allows to place bookmarks as text-comments (permanent bookmarks), and to navigate to them
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CudaExt.zip Additional commands for CudaText in Commands dialog (not visible in Plugins menu) 
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Session_Manager.zip Allows to manage "sessions" in editor
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Configure_Hotkeys.zip Shows dialog to view/set hotkeys in editor
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Configure_Menu.zip Allows to customize CudaText top/context menus, using JSON files 
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Options_Report.zip Shows HTML page with report of options
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Macros.zip Macros manager for CudaText. Gives commands to record/playback/save/delete/etc macros.
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.External_Tools.zip Adds support for calling external programs in CudaText
