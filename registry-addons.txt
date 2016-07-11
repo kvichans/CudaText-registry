@@ -1,4 +1,5 @@
 ;plugins
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Intext_Complete.zip Suggests completions for syntax expressions, using fragments from the entire text
 https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Configure_PEP8.zip Shows dialog to configure PEP8 linter
 https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.FindInFiles.zip Gives dialog to search/replace in multiple files
 https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.SnipToCall.zip Supports snippets to call any commands
