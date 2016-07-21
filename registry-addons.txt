@@ -12,3 +12,4 @@ https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.C
 https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Options_Report.zip Shows HTML page with report of options
 https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Macros.zip Macros manager for CudaText. Gives commands to record/playback/save/delete/etc macros.
 https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.External_Tools.zip Adds support for calling external programs in CudaText
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.JavaScript.zip Snippets for JavaScript (from Atom)
