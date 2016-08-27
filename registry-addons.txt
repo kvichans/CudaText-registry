@@ -12,14 +12,14 @@ https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.C
 https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Options_Report.zip Shows HTML page with report of options
 https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Macros.zip Macros manager for CudaText. Gives commands to record/playback/save/delete/etc macros.
 https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.External_Tools.zip Adds support for calling external programs in CudaText
-https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-JavaScript.zip Snippets for JavaScript (from Atom)
-https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-JavaScript-ES6.zip Snippets for JavaScript  ES6 (from Atom)
-https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Go.zip Snippets for Go (from Atom)
-https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Ruby.zip Snippets for Ruby (from Atom)
-https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Sass.zip Snippets for Sass (from Atom)
-https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-C#.zip Snippets for C# (from Atom)
-https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-C.zip Snippets for C (from Atom)
-https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Objective-C.zip Snippets for Objective-C (from Atom)
-https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Perl.zip Snippets for Perl (from Atom)
-https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Clojure.zip Snippets for Clojure (from Atom)
-https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Bash_script.zip Snippets for Bash script (from Atom)
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-JavaScript.zip
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-JavaScript-ES6.zip
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Go.zip
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Ruby.zip
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Sass.zip
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-C%23.zip
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-C.zip
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Objective-C.zip
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Perl.zip
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Clojure.zip
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Bash_script.zip
