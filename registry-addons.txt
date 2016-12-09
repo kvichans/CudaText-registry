@@ -22,4 +22,4 @@ https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets
 https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Objective-C.zip
 https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Perl.zip
 https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Clojure.zip
-https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Bash_script.zip
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Bashscript.zip
