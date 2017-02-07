@@ -12,7 +12,7 @@ https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.C
 https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Options_Report.zip Shows HTML page with report of options
 https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Macros.zip Macros manager for CudaText. Gives commands to record/playback/save/delete/etc macros.
 https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.External_Tools.zip Adds support for calling external programs in CudaText
-https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.BackupFile.zip Creates backup copy of current file (auto or by command)
+https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Backup_File.zip Creates backup copy of current file (auto or by command)
 https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-JavaScript.zip
 https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-JavaScript-ES6.zip
 https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Go.zip
