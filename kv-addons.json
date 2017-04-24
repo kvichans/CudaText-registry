@@ -1,87 +1,69 @@
 [
 {
-  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Intext_Complete.zip",
-  "desc": "Suggests completions for syntax expressions, using fragments from the entire text",
-  "module": "cuda_intext_complete",
-  "v": "0.9.4"
-},
-{
-  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Configure_PEP8.zip",
-  "desc": "Shows dialog to configure PEP8 linter",
-  "module": "cuda_config_pep8",
-  "v": "0.8.1"
-},
-{
-  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.FindInFiles.zip",
-  "desc": "Gives dialog to search/replace in multiple files",
-  "module": "cuda_find_in_files",
-  "v": "1.2.14"
-},
-{
-  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.SnipToCall.zip",
-  "desc": "Supports snippets to call any commands",
-  "module": "cuda_snip2call",
-  "v": "0.7.1"
-},
-{
-  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Favorites.zip",
-  "desc": "Manages 'favorites': list of user-selected file names",
-  "module": "cuda_favorites",
-  "v": "1.0.8"
-},
-{
-  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Intext_Bookmarks.zip",
-  "desc": "Allows to place bookmarks as text-comments (permanent bookmarks), and to navigate to them",
-  "module": "cuda_intext_bookmarks",
-  "v": "0.8.1"
-},
-{
-  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CudaExt.zip",
-  "desc": "Additional commands for CudaText in Commands dialog (not visible in Plugins menu) ",
-  "module": "cuda_ext",
-  "v": "1.2.6"
-},
-{
-  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Session_Manager.zip",
-  "desc": "Allows to manage 'sessions' in CudaText",
-  "module": "cuda_sess_manager",
-  "v": "1.0.3"
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Backup_File.zip",
+  "desc": "Creates backup copy of current file (auto or by command)",
+  "module": "cuda_backup_file",
+  "v": "0.9.8 2017-02-07"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Configure_Hotkeys.zip",
   "desc": "Shows dialog to view/set hotkeys in editor",
   "module": "cuda_config_keys",
-  "v": "0.9.2"
+  "v": "0.9.2 2016-07-19"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Configure_Menu.zip",
   "desc": "Allows to customize CudaText top/context menus, using JSON files",
   "module": "cuda_config_menu",
-  "v": "1.0.4"
+  "v": "1.0.4 2016-09-06"
 },
 {
-  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Options_Report.zip",
-  "desc": "Shows HTML page with report of options",
-  "module": "cuda_opts_report",
-  "v": "1.0.3"
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Configure_PEP8.zip",
+  "desc": "Shows dialog to configure PEP8 linter",
+  "module": "cuda_config_pep8",
+  "v": "0.8.1 2016-07-07"
 },
 {
-  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Macros.zip",
-  "desc": "Macros manager for CudaText. Gives commands to record/playback/save/delete/etc macros.",
-  "module": "cuda_macros",
-  "v": "1.1.5"
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CudaExt.zip",
+  "desc": "Additional commands for CudaText in Commands dialog (not visible in Plugins menu) ",
+  "module": "cuda_ext",
+  "v": "1.2.6 2016-12-30"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.External_Tools.zip",
   "desc": "Adds support for calling external programs in CudaText",
   "module": "cuda_exttools",
-  "v": "1.2.12"
+  "v": "1.2.12 2016-12-12"
 },
 {
-  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Backup_File.zip",
-  "desc": "Creates backup copy of current file (auto or by command)",
-  "module": "cuda_backup_file",
-  "v": "0.9.8"
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Favorites.zip",
+  "desc": "Manages 'favorites': list of user-selected file names",
+  "module": "cuda_favorites",
+  "v": "1.0.8 2016-07-28"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.FindInFiles.zip",
+  "desc": "Gives dialog to search/replace in multiple files",
+  "module": "cuda_find_in_files",
+  "v": "1.2.15 2017-04-24"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Intext_Bookmarks.zip",
+  "desc": "Allows to place bookmarks as text-comments (permanent bookmarks), and to navigate to them",
+  "module": "cuda_intext_bookmarks",
+  "v": "0.8.1 2016-06-20"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Intext_Complete.zip",
+  "desc": "Suggests completions for syntax expressions, using fragments from the entire text",
+  "module": "cuda_intext_complete",
+  "v": "0.9.4 2016-06-20"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Macros.zip",
+  "desc": "Macros manager for CudaText. Gives commands to record/playback/save/delete/etc macros.",
+  "module": "cuda_macros",
+  "v": "1.1.5 2017-04-01"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Options_Editor.zip",
@@ -89,6 +71,26 @@
   "module": "cuda_options_editor",
   "v": "1.1.13 2017-04-24"
 },
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Options_Report.zip",
+  "desc": "Shows HTML page with report of options",
+  "module": "cuda_opts_report",
+  "v": "1.0.3 2017-02-05"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Session_Manager.zip",
+  "desc": "Allows to manage 'sessions' in CudaText",
+  "module": "cuda_sess_manager",
+  "v": "1.0.3 2016-07-12"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.SnipToCall.zip",
+  "desc": "Supports snippets to call any commands",
+  "module": "cuda_snip2call",
+  "v": "0.7.1 2016-07-19"
+},
+
+
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-JavaScript.zip",
   "desc": "",
