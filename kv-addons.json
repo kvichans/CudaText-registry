@@ -3,19 +3,19 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Intext_Complete.zip",
   "desc": "Suggests completions for syntax expressions, using fragments from the entire text",
   "module": "cuda_intext_complete",
-  "v": "0.9.3"
+  "v": "0.9.4"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Configure_PEP8.zip",
   "desc": "Shows dialog to configure PEP8 linter",
   "module": "cuda_config_pep8",
-  "v": "0.8.0"
+  "v": "0.8.1"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.FindInFiles.zip",
   "desc": "Gives dialog to search/replace in multiple files",
   "module": "cuda_find_in_files",
-  "v": "1.2.12"
+  "v": "1.2.14"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.SnipToCall.zip",
@@ -27,7 +27,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Favorites.zip",
   "desc": "Manages 'favorites': list of user-selected file names",
   "module": "cuda_favorites",
-  "v": "1.0.7"
+  "v": "1.0.8"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Intext_Bookmarks.zip",
@@ -63,13 +63,13 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Options_Report.zip",
   "desc": "Shows HTML page with report of options",
   "module": "cuda_opts_report",
-  "v": "1.0.0"
+  "v": "1.0.3"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Macros.zip",
   "desc": "Macros manager for CudaText. Gives commands to record/playback/save/delete/etc macros.",
   "module": "cuda_macros",
-  "v": "1.1.4"
+  "v": "1.1.5"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.External_Tools.zip",
