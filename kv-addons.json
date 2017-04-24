@@ -87,7 +87,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Options_Editor.zip",
   "desc": "View and change options from user.json",
   "module": "cuda_options_editor",
-  "v": "1.1.12"
+  "v": "1.1.13 2017-04-24"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-JavaScript.zip",
