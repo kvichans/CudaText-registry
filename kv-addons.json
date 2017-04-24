@@ -57,7 +57,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Intext_Complete.zip",
   "desc": "Suggests completions for syntax expressions, using fragments from the entire text",
   "module": "cuda_intext_complete",
-  "v": "0.9.4 2016-06-20"
+  "v": "0.9.5 2017-04-24"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Macros.zip",
