@@ -15,7 +15,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Configure_Menu.zip",
   "desc": "Allows to customize CudaText top/context menus, using JSON files",
   "module": "cuda_config_menu",
-  "v": "1.1.02 2017-06-23"
+  "v": "1.1.04 2017-07-06"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Configure_PEP8.zip",
