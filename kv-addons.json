@@ -89,12 +89,6 @@
   "module": "cuda_snip2call",
   "v": "0.7.1 2016-07-19"
 },
-{
-  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Comments.zip",
-  "desc": "Gives commands to comment/uncomment lines/blocks in source code",
-  "module": "cuda_comments",
-  "v": "0.8.5 2017-07-12"
-},
 
 
 {
