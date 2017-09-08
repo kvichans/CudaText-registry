@@ -89,6 +89,12 @@
   "module": "cuda_snip2call",
   "v": "0.7.1 2016-07-19"
 },
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CaretHistory.zip",
+  "desc": "Commands to restore position of caret or selection",
+  "module": "cuda_caret_history",
+  "v": "1.0.2 2017-08-15"
+},
 
 
 {
