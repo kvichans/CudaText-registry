@@ -93,7 +93,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CaretHistory.zip",
   "desc": "Commands to restore position of caret or selection",
   "module": "cuda_caret_history",
-  "v": "1.0.2 2017-08-15"
+  "v": "1.0.3 2017-09-13"
 },
 
 
