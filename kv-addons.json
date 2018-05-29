@@ -27,7 +27,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CudaExt.zip",
   "desc": "Additional commands for CudaText in Commands dialog (not visible in Plugins menu) ",
   "module": "cuda_ext",
-  "v": "1.5.06 2018-05-17"
+  "v": "1.5.11 2018-05-28"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.External_Tools.zip",
