@@ -1,9 +1,9 @@
 [
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CudaExt.zip",
-  "desc": "Additional commands for CudaText in Commands dialog (not visible in Plugins menu) ",
+  "desc": "Additional commands for CudaText in Commands dialog",
   "module": "cuda_ext",
-  "v": "1.5.19 2018-08-28"
+  "v": "1.5.21 2018-09-24"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.FindInFiles-v3.zip",
