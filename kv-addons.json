@@ -45,7 +45,8 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Configure_PEP8.zip",
   "desc": "Shows dialog to configure PEP8 linter",
   "module": "cuda_config_pep8",
-  "v": "0.8.1 2016-07-07"
+  "v": "0.8.1 2016-07-07",
+  "req": "linter.Python_using_pep8"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Favorites.zip",
