@@ -36,11 +36,11 @@
   "v": "1.1.09 2018-10-29"
 },
 {
-  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Configure_PEP8.zip",
-  "desc": "Shows dialog to configure PEP8 linter",
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Configure_PyCodeStyle.zip",
+  "desc": "Shows dialog to configure PyCodeStyle linter",
   "module": "cuda_config_pep8",
-  "v": "0.8.1 2016-07-07",
-  "req": "linter.Python_using_pep8"
+  "v": "0.8.2 2019-05-05",
+  "req": "linter.Python_using_PyCodeStyle"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Favorites.zip",
