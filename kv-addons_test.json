@@ -1,0 +1,174 @@
+[
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CudaExt_t.zip",
+  "desc": "Additional commands for CudaText in Commands dialog",
+  "module": "cuda_ext",
+  "v": "1.5.35 2019-05-22"
+  "req": "cuda_kv_base:0.9.01,cuda_kv_dlg:0.9.01"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.FindInFiles-v3.zip",
+  "desc": "Gives dialog to search/replace in multiple files",
+  "module": "cuda_find_in_files",
+  "v": "3.1.18 2019-05-16"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.External_Tools.zip",
+  "desc": "Adds support for calling external programs in CudaText",
+  "module": "cuda_exttools",
+  "v": "1.2.35 2019-03-26"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Configure_Hotkeys.zip",
+  "desc": "Shows dialog to view/set hotkeys in editor",
+  "module": "cuda_config_keys",
+  "v": "2.1.4 2018-09-26"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Backup_File.zip",
+  "desc": "Creates backup copy of current file (auto or by command)",
+  "module": "cuda_backup_file",
+  "v": "0.9.8 2017-02-07"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Configure_Menu.zip",
+  "desc": "Allows to customize CudaText top/context menus, using JSON files",
+  "module": "cuda_config_menu",
+  "v": "1.1.09 2018-10-29"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Configure_PyCodeStyle.zip",
+  "desc": "Shows dialog to configure PyCodeStyle linter",
+  "module": "cuda_config_pep8",
+  "v": "0.8.3 2019-05-06",
+  "req": "linter.Python_using_PyCodeStyle"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Favorites.zip",
+  "desc": "Manages 'favorites': list of user-selected file names",
+  "module": "cuda_favorites",
+  "v": "1.1.01 2019-01-24"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Intext_Bookmarks.zip",
+  "desc": "Allows to place bookmarks as text-comments (permanent bookmarks), and to navigate to them",
+  "module": "cuda_intext_bookmarks",
+  "v": "0.8.2 2017-07-12"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Intext_Complete.zip",
+  "desc": "Suggests completions for syntax expressions, using fragments from the entire text",
+  "module": "cuda_intext_complete",
+  "v": "0.9.5 2017-04-24"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Macros.zip",
+  "desc": "Macros manager for CudaText. Gives commands to record/playback/save/delete/etc macros.",
+  "module": "cuda_macros",
+  "v": "1.1.6 2017-06-21"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Options_Report.zip",
+  "desc": "Shows HTML page with report of options",
+  "module": "cuda_opts_report",
+  "v": "1.0.3 2017-02-05"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Session_Manager.zip",
+  "desc": "Allows to manage 'sessions' in CudaText",
+  "module": "cuda_sess_manager",
+  "v": "1.0.5 2018-02-13"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.SnipToCall.zip",
+  "desc": "Supports snippets to call any commands",
+  "module": "cuda_snip2call",
+  "v": "0.7.2 2018-02-08"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CaretHistory.zip",
+  "desc": "Commands to restore position of caret or selection",
+  "module": "cuda_caret_history",
+  "v": "1.0.3 2017-09-13"
+},
+
+
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Python.zip",
+  "desc": "",
+  "module": "",
+  "v": "1.02 2018-04-16"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Sublime-SCSS.zip",
+  "desc": "",
+  "module": "",
+  "v": "1.00"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-JavaScript.zip",
+  "desc": "",
+  "module": "",
+  "v": "1.00"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-JavaScript-ES6.zip",
+  "desc": "",
+  "module": "",
+  "v": "1.00"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Go.zip",
+  "desc": "",
+  "module": "",
+  "v": "1.00"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Ruby.zip",
+  "desc": "",
+  "module": "",
+  "v": "1.00"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Sass.zip",
+  "desc": "",
+  "module": "",
+  "v": "1.00"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-C%23.zip",
+  "desc": "",
+  "module": "",
+  "v": "1.00"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-C.zip",
+  "desc": "",
+  "module": "",
+  "v": "1.00"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Objective-C.zip",
+  "desc": "",
+  "module": "",
+  "v": "1.00"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Perl.zip",
+  "desc": "",
+  "module": "",
+  "v": "1.00"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Clojure.zip",
+  "desc": "",
+  "module": "",
+  "v": "1.00"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/snippets.Atom-Bashscript.zip",
+  "desc": "",
+  "module": "",
+  "v": "1.00"
+}
+]
