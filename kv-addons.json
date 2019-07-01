@@ -18,6 +18,18 @@
   "v": "1.2.37 2019-05-28"
 },
 {
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CudaKvDlg.zip",
+  "desc": "Helper library to work with CudaText plugin dialogs",
+  "module": "cuda_kv_dlg",
+  "v": "1.7.01 2019-07-01"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CudaKvBase.zip",
+  "desc": "Utilities for logging, i18n, storing plugin options/states and so on",
+  "module": "cuda_kv_base",
+  "v": "1.7.01 2019-07-01"
+},
+{
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Configure_Hotkeys.zip",
   "desc": "Shows dialog to view/set hotkeys in editor",
   "module": "cuda_config_keys",
