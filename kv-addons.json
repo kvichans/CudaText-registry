@@ -12,6 +12,13 @@
   "v": "3.1.20 2019-07-15"
 },
 {
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugintranslation.kvichans_ru.zip",
+  "desc": "Translations (ru_RU) for kvichans' plugins: CudaExt, Find in Files",
+  "module": "",
+  "api": "1.0.293",
+  "v": "2019-07-17"
+},
+{
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.External_Tools.zip",
   "desc": "Adds support for calling external programs in CudaText",
   "module": "cuda_exttools",
