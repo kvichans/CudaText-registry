@@ -3,13 +3,13 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CudaExt.zip",
   "desc": "Additional commands for CudaText in Commands dialog",
   "module": "cuda_ext",
-  "v": "1.7.05 2019-07-09"
+  "v": "1.7.08 2019-07-26"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.FindInFiles-v4.zip",
   "desc": "Gives dialog to search in multiple files or tabs",
   "module": "cuda_find_in_files4",
-  "v": "4.4.08 2019-08-21"
+  "v": "4.5.01 2019-08-26"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.FindInFiles-v3.zip",
@@ -114,6 +114,31 @@
   "desc": "Commands to restore position of caret or selection",
   "module": "cuda_caret_history",
   "v": "1.0.3 2017-09-13"
+},
+
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.FindInFiles-v4.py35.zip",
+  "desc": "Gives dialog to search in multiple files or tabs. Version is compatible with Python 3.5.",
+  "module": "cuda_find_in_files4",
+  "v": "4.5.01 2019-08-26"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CudaExt.py35.zip",
+  "desc": "Additional commands for CudaText in Commands dialog. Version is compatible with Python 3.5.",
+  "module": "cuda_ext",
+  "v": "1.7.08 2019-07-26"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CudaKvDlg.py35.zip",
+  "desc": "Helper library to work with CudaText plugin dialogs. Version is compatible with Python 3.5.",
+  "module": "cuda_kv_dlg",
+  "v": "1.7.01 2019-07-01"
+},
+{
+  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CudaKvBase.py35.zip",
+  "desc": "Utilities for logging, i18n, storing plugin options/states and so on. Version is compatible with Python 3.5.",
+  "module": "cuda_kv_base",
+  "v": "1.7.01 2019-07-01"
 },
 
 
