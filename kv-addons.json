@@ -20,10 +20,10 @@
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugintranslation.kvichans_ru.zip",
-  "desc": "Translations (ru_RU) for kvichans' plugins: CudaExt, Find in Files",
+  "desc": "Translations (ru_RU) for kvichans' plugins: CudaExt, Find in Files, Find in Files4",
   "module": "",
   "api": "1.0.293",
-  "v": "2019-07-17"
+  "v": "2019-10-04"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.External_Tools.zip",
