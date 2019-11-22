@@ -3,7 +3,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CudaExt.zip",
   "desc": "Additional commands for CudaText in Commands dialog",
   "module": "cuda_ext",
-  "v": "1.7.10 2019-09-02"
+  "v": "1.7.11 2019-09-09"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.FindInFiles-v4.zip",
@@ -23,7 +23,7 @@
   "desc": "Translations (ru_RU) for kvichans' plugins: CudaExt, Find in Files, Find in Files4",
   "module": "",
   "api": "1.0.293",
-  "v": "2019-10-07"
+  "v": "2019-11-22"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.External_Tools.zip",
