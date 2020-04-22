@@ -78,7 +78,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Intext_Bookmarks.zip",
   "desc": "Allows to place bookmarks as text-comments (permanent bookmarks), and to navigate to them",
   "module": "cuda_intext_bookmarks",
-  "v": "0.8.2 2017-07-12"
+  "v": "0.8.3 2020-04-22"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Intext_Complete.zip",
