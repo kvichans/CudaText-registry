@@ -47,7 +47,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Configure_Hotkeys.zip",
   "desc": "Shows dialog to view/set hotkeys in editor",
   "module": "cuda_config_keys",
-  "v": "2.1.5 2019-11-29"
+  "v": "2.1.6 2020-05-25"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Backup_File.zip",
