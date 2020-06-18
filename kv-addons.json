@@ -76,19 +76,19 @@
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Intext_Bookmarks.zip",
-  "desc": "Allows to place bookmarks as text-comments (permanent bookmarks), and to navigate to them",
+  "desc": "Place bookmarks as text-comments, and to navigate to them",
   "module": "cuda_intext_bookmarks",
   "v": "0.8.3 2020-04-22"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Intext_Complete.zip",
-  "desc": "Suggests completions for syntax expressions, using fragments from the entire text",
+  "desc": "Completions for syntax expressions, using fragments from the entire text",
   "module": "cuda_intext_complete",
   "v": "0.9.5 2017-04-24"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Macros.zip",
-  "desc": "Macros manager for CudaText. Gives commands to record/playback/save/delete/etc macros.",
+  "desc": "Macros manager. Gives commands to record/playback/save/delete/etc macros.",
   "module": "cuda_macros",
   "v": "1.1.6 2017-06-21"
 },
