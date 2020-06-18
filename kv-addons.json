@@ -76,7 +76,7 @@
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Intext_Bookmarks.zip",
-  "desc": "Place bookmarks as text-comments, and to navigate to them",
+  "desc": "Place special comments in code, and handle them like bookmarks",
   "module": "cuda_intext_bookmarks",
   "v": "0.8.3 2020-04-22"
 },
@@ -102,7 +102,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Session_Manager.zip",
   "desc": "Allows to manage 'sessions' in CudaText",
   "module": "cuda_sess_manager",
-  "v": "1.0.6 2020-05-14"
+  "v": "1.0.7 2020-06-18"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.SnipToCall.zip",
