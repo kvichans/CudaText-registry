@@ -16,7 +16,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.FindInFiles-v3.zip",
   "desc": "Gives dialog to search/replace in multiple files",
   "module": "cuda_find_in_files",
-  "v": "3.1.23 2020-06-01"
+  "v": "3.1.24 2020-07-31"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugintranslation.kvichans_ru.zip",
