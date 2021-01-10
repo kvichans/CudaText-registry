@@ -108,7 +108,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.SnipToCall.zip",
   "desc": "Supports snippets to call any commands",
   "module": "cuda_snip2call",
-  "v": "0.7.2 2018-02-08"
+  "v": "0.7.3 2021-01-09"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Caret_History.zip",
