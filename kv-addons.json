@@ -3,14 +3,14 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CudaExt.zip",
   "desc": "Additional commands for CudaText in Commands dialog",
   "module": "cuda_ext",
-  "v": "1.7.29 2021-02-19"
+  "v": "1.7.30 2021-03-03"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.FindInFiles-v4.zip",
   "desc": "Gives dialog to search in multiple files or tabs",
   "module": "cuda_find_in_files4",
   "api": "1.0.302",
-  "v": "4.8.02 2021-02-09"
+  "v": "4.8.03 2021-03-03"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.FindInFiles-v3.zip",
@@ -47,19 +47,19 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Configure_Hotkeys.zip",
   "desc": "Shows dialog to view/set hotkeys in editor",
   "module": "cuda_config_keys",
-  "v": "2.1.6 2020-05-25"
+  "v": "2.1.7 2021-03-03"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Backup_File.zip",
   "desc": "Creates backup copy of current file (auto or by command)",
   "module": "cuda_backup_file",
-  "v": "0.9.8 2017-02-07"
+  "v": "0.9.9 2021-03-03"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Configure_Menu.zip",
   "desc": "Allows to customize CudaText top/context menus, using JSON files",
   "module": "cuda_config_menu",
-  "v": "1.1.09 2018-10-29"
+  "v": "1.1.10 2021-03-03"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Configure_PyCodeStyle.zip",
@@ -90,7 +90,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Macros.zip",
   "desc": "Macros manager. Gives commands to record/playback/save/delete/etc macros.",
   "module": "cuda_macros",
-  "v": "1.1.9 2020-06-20"
+  "v": "1.1.10 2021-03-03"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Options_Report.zip",
@@ -108,7 +108,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.SnipToCall.zip",
   "desc": "Supports snippets to call any commands",
   "module": "cuda_snip2call",
-  "v": "0.7.3 2021-01-09"
+  "v": "1.0.3 2021-03-03"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Caret_History.zip",
