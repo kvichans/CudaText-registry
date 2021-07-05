@@ -10,7 +10,8 @@
   "desc": "Gives dialog to search in multiple files or tabs",
   "module": "cuda_find_in_files4",
   "api": "1.0.302",
-  "v": "4.8.06 2021-07-05"
+  "v": "4.8.06 2021-07-05",
+  "req":"plugin.Options_Editor"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.FindInFiles-v3.zip",
