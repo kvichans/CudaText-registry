@@ -24,7 +24,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.FindInFiles-v3.zip",
   "desc": "Gives dialog to search/replace in multiple files",
   "module": "cuda_find_in_files",
-  "v": "3.1.24 2020-07-31"
+  "v": "3.1.25 2021-07-09"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugintranslation.kvichans_ru.zip",
@@ -37,7 +37,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.External_Tools.zip",
   "desc": "Adds support for calling external programs in CudaText",
   "module": "cuda_exttools",
-  "v": "1.2.38 2021-03-05"
+  "v": "1.2.39 2021-07-09"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CudaKvDlg.zip",
@@ -61,7 +61,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Backup_File.zip",
   "desc": "Creates backup copy of current file (auto or by command)",
   "module": "cuda_backup_file",
-  "v": "0.9.9 2021-03-03"
+  "v": "0.9.10 2021-07-09"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Configure_Menu.zip",
@@ -86,7 +86,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Intext_Bookmarks.zip",
   "desc": "Place special comments in code, and handle them like bookmarks",
   "module": "cuda_intext_bookmarks",
-  "v": "0.8.4 2020-07-24"
+  "v": "0.8.5 2021-07-09"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Intext_Complete.zip",
