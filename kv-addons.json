@@ -37,7 +37,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.External_Tools.zip",
   "desc": "Adds support for calling external programs in CudaText",
   "module": "cuda_exttools",
-  "v": "1.2.39 2021-07-09"
+  "v": "1.2.40 2021-07-18"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CudaKvDlg.zip",
