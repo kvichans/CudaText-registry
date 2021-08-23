@@ -98,7 +98,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Macros.zip",
   "desc": "Macros manager. Gives commands to record/playback/save/delete/etc macros.",
   "module": "cuda_macros",
-  "v": "1.1.10 2021-03-03"
+  "v": "1.1.11 2021-08-22"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Options_Report.zip",
