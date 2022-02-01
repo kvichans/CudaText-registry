@@ -10,7 +10,7 @@
   "desc": "Gives dialog to search in multiple files or tabs",
   "module": "cuda_find_in_files4",
   "api": "1.0.302",
-  "v": "4.8.07 2021-07-07",
+  "v": "4.8.08 2022-02-01",
   "req":"plugin.Options_Editor"
 },
 {
