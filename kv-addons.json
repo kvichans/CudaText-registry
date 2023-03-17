@@ -61,7 +61,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Backup_File.zip",
   "desc": "Creates backup copy of current file (auto or by command)",
   "module": "cuda_backup_file",
-  "v": "0.9.10 2021-07-09"
+  "v": "0.9.11 2023-02-24"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Configure_Menu.zip",
@@ -86,7 +86,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Intext_Bookmarks.zip",
   "desc": "Place special comments in code, and handle them like bookmarks",
   "module": "cuda_intext_bookmarks",
-  "v": "0.8.5 2021-07-09"
+  "v": "0.8.6 2023-03-02"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Intext_Complete.zip",
