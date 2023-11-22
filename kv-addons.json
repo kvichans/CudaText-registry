@@ -3,7 +3,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CudaExt.zip",
   "desc": "Additional commands for CudaText in Commands dialog",
   "module": "cuda_ext",
-  "v": "1.7.58 2023-11-09"
+  "v": "1.7.59 2023-11-21"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.FindInFiles-v4.zip",
