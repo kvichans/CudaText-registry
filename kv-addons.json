@@ -1,7 +1,7 @@
 [
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CudaExt.zip",
-  "desc": "Additional commands for CudaText in Commands dialog",
+  "desc": "Various useful commands",
   "module": "cuda_ext",
   "v": "1.7.60 2023-12-27"
 },
@@ -10,7 +10,7 @@
   "desc": "Gives dialog to search in multiple files or tabs",
   "module": "cuda_find_in_files4",
   "api": "1.0.302",
-  "v": "4.8.14 2023-09-13",
+  "v": "4.8.15 2023-12-27",
   "req":"plugin.Options_Editor"
 },
 {
