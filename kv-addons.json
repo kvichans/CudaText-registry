@@ -10,7 +10,7 @@
   "desc": "Gives dialog to search in multiple files or tabs",
   "module": "cuda_find_in_files4",
   "api": "1.0.302",
-  "v": "4.8.15 2023-12-27",
+  "v": "4.8.15 2023-12-28",
   "req":"plugin.Options_Editor"
 },
 {
@@ -135,7 +135,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CudaExt_py35.zip",
   "desc": "Additional commands for CudaText in Commands dialog. (Python 3.5)",
   "module": "cuda_ext_py35",
-  "v": "1.7.17 2022-10-03"
+  "v": "1.7.18 2023-12-28"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CudaKvDlg_py35.zip",
