@@ -38,7 +38,7 @@
   "url_bak": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.External_Tools.zip",
   "desc": "Adds support for calling external programs in CudaText",
   "module": "cuda_exttools",
-  "v": "1.3.10 2024-01-09"
+  "v": "1.3.11 2024-01-12"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CudaKvDlg.zip",
@@ -81,7 +81,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Favorites.zip",
   "desc": "Manages 'favorites': list of user-selected file/folder names",
   "module": "cuda_favorites",
-  "v": "1.2.10 2023-12-22"
+  "v": "1.2.11 2024-01-13"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Intext_Bookmarks.zip",
@@ -98,9 +98,9 @@
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Macros.zip",
   "url_bak": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Macros.zip",
-  "desc": "Macros manager. Gives commands to record/playback/save/delete/etc macros.",
+  "desc": "Macros manager: gives commands to record/playback/save/delete macros",
   "module": "cuda_macros",
-  "v": "1.1.19 2024-01-06"
+  "v": "1.1.20 2024-01-12"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Options_Report.zip",
@@ -118,7 +118,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.SnipToCall.zip",
   "desc": "Supports snippets to call any commands",
   "module": "cuda_snip2call",
-  "v": "1.0.3 2024-01-11"
+  "v": "1.0.4 2024-01-13"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Caret_History.zip",
