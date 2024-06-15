@@ -3,14 +3,14 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CudaExt.zip",
   "desc": "Various useful commands",
   "module": "cuda_ext",
-  "v": "1.7.62 2024-01-25"
+  "v": "1.7.63 2024-06-15"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.FindInFiles-v4.zip",
   "desc": "Gives dialog to search in multiple files or tabs",
   "module": "cuda_find_in_files4",
   "api": "1.0.302",
-  "v": "4.8.17 2024-05-21",
+  "v": "4.8.18 2024-06-10",
   "req":"plugin.Options_Editor"
 },
 {
