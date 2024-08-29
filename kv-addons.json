@@ -80,7 +80,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Favorites.zip",
   "desc": "Manages 'favorites': list of user-selected file/folder names",
   "module": "cuda_favorites",
-  "v": "1.2.12 2024-01-18"
+  "v": "1.2.14 2024-08-29"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Intext_Bookmarks.zip",
