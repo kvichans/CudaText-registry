@@ -9,7 +9,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.FindInFiles-v4.zip",
   "desc": "Gives dialog to search in multiple files or tabs",
   "module": "cuda_find_in_files4",
-  "v": "4.8.23 2024-09-22",
+  "v": "4.8.24 2024-12-16",
   "req": "plugin.Options_Editor"
 },
 {
@@ -80,7 +80,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Favorites.zip",
   "desc": "Manages 'favorites': list of user-selected file/folder names",
   "module": "cuda_favorites",
-  "v": "1.2.14 2024-08-29"
+  "v": "1.2.15 2024-12-16"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Intext_Bookmarks.zip",
