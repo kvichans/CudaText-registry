@@ -111,7 +111,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Session_Manager.zip",
   "desc": "Allows to manage 'sessions' in CudaText",
   "module": "cuda_sess_manager",
-  "v": "1.0.12 2025-04-05"
+  "v": "1.0.13 2025-04-07"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.SnipToCall.zip",
