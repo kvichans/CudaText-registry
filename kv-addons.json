@@ -26,13 +26,6 @@
   "v": "3.1.26 2023-12-27"
 },
 {
-  "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/translation.ru_RU-kvichans.zip",
-  "desc": "Translations to Russian for kvichans' plugins: CudaExt, Find in Files, Find in Files4",
-  "module": "",
-  "api": "1.0.293",
-  "v": "2019-11-22"
-},
-{
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.External_Tools.zip",
   "url_bak": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.External_Tools.zip",
   "desc": "Adds support for calling external programs in CudaText",
