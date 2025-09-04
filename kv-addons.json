@@ -73,7 +73,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Favorites.zip",
   "desc": "Manages 'favorites': list of user-selected file/folder names",
   "module": "cuda_favorites",
-  "v": "1.2.16 2024-12-22"
+  "v": "1.2.16 2025-09-04"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Intext_Bookmarks.zip",
@@ -92,7 +92,7 @@
   "url_bak": "https://sourceforge.net/projects/cudatext/files/addons/plugins/plugin.Macros.zip",
   "desc": "Macros manager: gives commands to record/playback/save/delete macros",
   "module": "cuda_macros",
-  "v": "1.1.20 2024-01-12"
+  "v": "1.1.20 2025-09-04"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Options_Report.zip",
