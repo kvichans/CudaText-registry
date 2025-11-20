@@ -3,13 +3,13 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.CudaExt.zip",
   "desc": "Various useful commands",
   "module": "cuda_ext",
-  "v": "1.7.79 2025-11-19"
+  "v": "1.7.80 2025-11-20"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.FindInFiles-v4.zip",
   "desc": "Gives dialog to search in multiple files or tabs",
   "module": "cuda_find_in_files4",
-  "v": "4.8.25 2025-11-19",
+  "v": "4.8.26 2025-11-20",
   "req": "plugin.Options_Editor"
 },
 {
@@ -23,7 +23,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.FindInFiles-v3.zip",
   "desc": "Gives dialog to search/replace in multiple files",
   "module": "cuda_find_in_files",
-  "v": "3.1.27 2025-11-19"
+  "v": "3.1.28 2025-11-20"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.External_Tools.zip",
