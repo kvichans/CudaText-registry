@@ -54,7 +54,7 @@
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Backup_File.zip",
   "desc": "Creates backup copy of current file (auto or by command)",
   "module": "cuda_backup_file",
-  "v": "0.9.12 2025-11-21"
+  "v": "0.9.14 2025-12-15"
 },
 {
   "url": "https://sourceforge.net/projects/kvichans-plugins/files/cudatext-addons/plugin.Configure_Menu.zip",
